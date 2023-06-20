@@ -10,7 +10,6 @@ terraform {
 #configuration provider
 provider "azurerm" {
   features {}
-
 }
 
 # Create a resource group
